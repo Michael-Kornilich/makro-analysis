@@ -4,3 +4,5 @@ Descriptive and later inductive analysis of the relation between:
 * Inflation rate
 
 Goal: find the parameters for the 3D Phillips-curve
+
+Problem: Lack of inflation expectations before 1977
