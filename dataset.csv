@@ -1,4 +1,4 @@
-,inflation_rate,mean_unemployment,expected_inflation
+year,inflation_rate,mean_unemployment,expected_inflation
 1948,0.016877637130801704,0.0375,0.02593
 1949,-0.016666666666666607,0.0605,0.02593
 1950,0.06382978723404253,0.0521,0.02593
